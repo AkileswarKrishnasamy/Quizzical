@@ -1,8 +1,13 @@
-# React + Vite
+# Quizzical
+Quizzical is a simple quiz app built with the React framework. It uses HTML, CSS, and Vite as a build tool. The app fetches trivia questions from the Open Trivia Database API and includes features to manage the API's response time constraints.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+* Fetches trivia questions from the Open Trivia Database API.
+* Uses React components and hooks for state management.
+* Implements a timer to handle API response time constraints using the SweetAlert package.
+* Interactive and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+
+![Screenshot 2024-06-17 090204](https://github.com/AkileswarKrishnasamy/Quizzical/assets/143276376/1803cfe0-9d0b-4f3f-a2b5-1f1221e10525)
